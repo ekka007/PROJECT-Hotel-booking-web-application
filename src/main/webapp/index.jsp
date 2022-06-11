@@ -22,7 +22,7 @@
 <form action="">
   <!--  General -->
   <div class="form-group">
-    <h2 class="heading">Booking & contact-details</h2>
+    <h2 class="heading">Booking & contact-details & id</h2>
     <div class="controls">
       <input type="text" id="name" class="floatLabel" name="name">
       <label for="name">Name</label>
